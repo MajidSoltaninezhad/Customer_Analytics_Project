@@ -45,7 +45,8 @@ Customer_Analytics_Project/
 │   └── Customer_Insights.pdf
 │
 └── README.md
-3️⃣ Step 3: Tools & Libraries
+
+## 3️⃣ Step 3: Tools & Libraries
 Step	Tools / Libraries	Purpose
 Data Cleaning	Python (Pandas, NumPy)	Handle missing values, duplicates, and data types
 EDA	Python (Seaborn, Matplotlib, Pandas)	Understand customer behavior, trends, and correlations
@@ -54,7 +55,7 @@ Predictive Modeling	Scikit-learn	Predict churn, sales, or segment customers
 Dashboard	Power BI	Visualize customer KPIs interactively
 Optional	Plotly, Dash	Build interactive dashboards in Python
 
-4️⃣ Step 4: Business Questions
+## 4️⃣ Step 4: Business Questions
 🔹 Descriptive Analytics (Past Behavior)
 Which customers generate the most revenue?
 
@@ -78,7 +79,7 @@ Which customers should we target with promotions?
 
 How can we increase average customer lifetime value?
 
-5️⃣ Step 5: Step-by-Step Workflow
+## 5️⃣ Step 5: Step-by-Step Workflow
 🧹 Phase 1: Data Cleaning & Preparation
 Remove duplicates and handle missing values
 
@@ -116,7 +117,7 @@ Recommend retention actions
 
 Suggest cross-selling and upselling opportunities
 
-📈 Phase 6: Dashboard & Reporting
+## 📈 Phase 6: Dashboard & Reporting
 Import clean data and predictions into Power BI
 
 Create interactive visuals:
@@ -131,7 +132,7 @@ RFM distribution
 
 Export insights as PDF or PowerPoint
 
-6️⃣ Step 6: Example KPIs to Track
+## 6️⃣ Step 6: Example KPIs to Track
 KPI	Description
 Total Revenue per Customer	Total amount spent by each customer
 Average Revenue per Segment	Average customer spending in each segment
