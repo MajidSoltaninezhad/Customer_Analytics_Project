@@ -1,0 +1,24 @@
+{
+  "name": "Big Slicer Font Theme",
+  "visualStyles": {
+    "slicer": {
+      "*": {
+        "visual": [
+          {
+            "fontSize": 150
+          }
+        ],
+        "header": [
+          {
+            "fontSize": 150
+          }
+        ],
+        "values": [
+          {
+            "fontSize": 500
+          }
+        ]
+      }
+    }
+  }
+}
